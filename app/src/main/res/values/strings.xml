@@ -1,0 +1,23 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<resources>
+    <string name = "app_name">Peer Learn</string>
+    <string name="start">I agree, start tracking</string>
+    <string name="stop">I do not agree, stop the app</string>
+    <string name="refresh">My phone powered down, refresh data</string>
+    <string name="enable">Set location permissions</string>
+    <string name="info">
+        This app will run in the background, and track the phone location, but your identity will not be shared.\n \n
+        To protect your privacy, the phone will assign itself a random identity code which will be used to indicate that
+        one or more sets of location information are from the same device.  In addition,
+        the data file will be stored in a password protected location \n \n
+        If you agree to participate, make sure you have location permissions set to Always allow \n
+
+        1. Click Set location permissions.\n
+        2. Permissions > Location > Allow all the time\n\n
+    </string>
+    <string name="hello">You accepted the EULA!</string>
+
+    <string name="eula">Eula: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sagittis, est in pulvinar varius, nulla metus suscipit enim, eu volutpat sem magna sed lacus. Donec tempor libero eget dui euismod eget luctus libero tempor. Quisque felis mauris, malesuada accumsan vulputate quis, sodales et nibh. Mauris tellus neque, interdum quis blandit sagittis, tincidunt at urna. Cras luctus feugiat metus, in sollicitudin felis laoreet sed. Mauris posuere mattis felis. Morbi enim odio, accumsan ac tincidunt pharetra, mattis sit amet turpis. Vivamus lobortis aliquet ante nec aliquet. Suspendisse potenti. Praesent rutrum condimentum ante et congue. In faucibus posuere arcu, ut congue sem dictum ac. Cras ante libero, pellentesque et fermentum ut, congue nec mi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed euismod malesuada sapien ut eleifend. </string>
+    <string name="updates">Upates in this version: Donec sollicitudin sodales turpis eget congue. Nulla facilisi. Proin facilisis eros vel mauris mollis tempus. </string>
+
+</resources>

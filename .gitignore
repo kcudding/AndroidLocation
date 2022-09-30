@@ -1,0 +1,7 @@
+
+build/
+libs/
+.gradle/5.4.1/javaCompile/jarAnalysis.bin
+.gradle/5.4.1/vcsMetadata-1/
+.gradle
+.idea
